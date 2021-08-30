@@ -1,0 +1,17 @@
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\bin\Debug\net5.0-windows\pVolume.exe
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\bin\Debug\net5.0-windows\pVolume.deps.json
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\bin\Debug\net5.0-windows\pVolume.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\bin\Debug\net5.0-windows\pVolume.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\bin\Debug\net5.0-windows\pVolume.dll
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\bin\Debug\net5.0-windows\ref\pVolume.dll
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\bin\Debug\net5.0-windows\pVolume.pdb
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.Form1.resources
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.dll
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\ref\pVolume.dll
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.pdb
+C:\Users\maria\OneDrive\Documentos\FATEC\2° Semestre\LP2\Atividade1\pVolume\pVolume\pVolume\obj\Debug\net5.0-windows\pVolume.genruntimeconfig.cache
