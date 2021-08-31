@@ -69,8 +69,7 @@ namespace PVolume
 
         private void Fechar(object sender, EventArgs e)
         {
-         Close();
-
+             
         }
     }
 }
